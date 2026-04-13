@@ -21,18 +21,18 @@ YOUR_BOT_TOKEN = "8649379795:AAGebKLEEm02f0i3kmBjMaG2UX_fh-qqF8o" # <--- This li
 
 # ==================== New Addition: Multiple Admin IDs ====================
 # Add your and other admins' Telegram User IDs to the list below
-ADMIN_CHAT_IDS = ["8007265044"] # Example: ["YOUR_ADMIN_USER_ID_1", "YOUR_ADMIN_USER_ID_2"]
+ADMIN_CHAT_IDS = ["7355153180"] # Example: ["YOUR_ADMIN_USER_ID_1", "YOUR_ADMIN_USER_ID_2"]
 # =================================================================
 
 # Old chat IDs kept for the first run
-INITIAL_CHAT_IDS = ["-1002841786292"] 
+INITIAL_CHAT_IDS = ["-1002241783741"] 
 
 LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
 SMS_API_ENDPOINT = "https://www.ivasms.com/portal/sms/received/getsms"
 
-USERNAME = "rpranto086@gmail.com"
-PASSWORD = "mjk52k14"
+USERNAME = "mrifatislam2008@gmail.com"
+PASSWORD = "@MDRiFAT0025"
 
 # Reduced interval to 2 seconds to keep the bot responsive and reduce server load
 POLLING_INTERVAL_SECONDS = 2 
