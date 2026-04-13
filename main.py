@@ -17,7 +17,7 @@ from telegram import Update
 # --- Configuration (Fill in your details) ---
 # Your Telegram Bot Token here. You can get it from BotFather.
 # Example: YOUR_BOT_TOKEN = "8509088099:AAGIG_F-mqsZhHmEEY7zB-2eP20dq3w6p0s"
-YOUR_BOT_TOKEN = "8509088099:AAGIG_F-mqsZhHmEEY7zB-2eP20dq3w6p0s" # <--- This line needs to be changed
+YOUR_BOT_TOKEN = "8649379795:AAGebKLEEm02f0i3kmBjMaG2UX_fh-qqF8o" # <--- This line needs to be changed
 
 # ==================== New Addition: Multiple Admin IDs ====================
 # Add your and other admins' Telegram User IDs to the list below
